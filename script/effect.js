@@ -11,7 +11,7 @@ $('document').ready(function() {
 
             const config = {
                 birthdate: 'August 25, 2021',
-                name: 'Rhona Loscar Fernandez'
+                name: 'Pavithra Akkaa'
             };
 
             function hideEverything() {

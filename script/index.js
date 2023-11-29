@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
     birthdate: 'july 28, 2004 ',
-    name: 'Rhona Loscar Fernandez'
+    name: 'Pavithra Akkaa'
 };
 
 function hideEverything() {
